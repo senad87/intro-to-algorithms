@@ -1,6 +1,3 @@
-// Starting from the second number shift all greater numbers to the right
-// until you reach the number that is smaller or the start of the array.
-// then you place the current number after the smaller number.
 
 function insertionSort(arr) {
 

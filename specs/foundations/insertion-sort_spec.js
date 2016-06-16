@@ -1,7 +1,5 @@
 describe('insertion-sort', function() {
-
-
-
+    
     it('should sort from min to max', function() {
 
         var arrayToSort = [5, 2, 4, 6, 1, 3];
